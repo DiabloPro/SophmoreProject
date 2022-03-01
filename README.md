@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/94320656/156106609-c82dd044-e570-4e63-b3b8-93c2353cfabd.png" width="200" height="400"/>
+  <img src="https://user-images.githubusercontent.com/94320656/156106609-c82dd044-e570-4e63-b3b8-93c2353cfabd.png" width="200" height="200"/>
 </p>
 # SophmoreProject
 Game for Sophmore Project
