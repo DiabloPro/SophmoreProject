@@ -2,6 +2,6 @@
 # SophmoreProject
 Game for Sophmore Project
 
-Download: [Game](https://github.com/DiabloPro/SophmoreProject/files/8158791/Game.zip)
+Download: [Game](https://github.com/DiabloPro/SophmoreProject/releases/download/Game/SophmoreProject-Game.zip)
 # Source Code
 [Source Code](https://github.com/DiabloPro/SophmoreProject/blob/main/Source.zip)
